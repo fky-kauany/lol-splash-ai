@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.env
+out/
+output/
+*.log
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+ComfyUI/
+ComfyUI_windows_portable/
